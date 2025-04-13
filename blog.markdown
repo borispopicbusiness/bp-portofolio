@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
-
 ## 🔐 Getting to Know Keycloak, OAuth 2.0 & OpenID Connect
 
 When building modern applications, handling user login, roles, and secure access can get tricky fast. That’s where tools like **Keycloak** come in, along with protocols like **OAuth 2.0** and **OpenID Connect (OIDC)**. If you’ve heard these names tossed around but aren’t 100% sure how they fit together, this post is for you.
