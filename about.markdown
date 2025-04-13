@@ -17,6 +17,9 @@ I specialize in **Java**, **Spring**, **SQL**, and **containerization**, with a 
 💼 Connect with me on LinkedIn:  
 [LinkedIn Profile](https://www.linkedin.com/in/boris-popic-41670443)
 
+📧 Email: [borispopic.business@gmail.com](mailto:borispopic.business@gmail.com)  
+📱 Phone: [+381655433912](tel:+381655433912)
+
 ---
 
 ### 🧰 Tech Stack
