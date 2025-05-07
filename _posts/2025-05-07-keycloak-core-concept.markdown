@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Blog
-permalink: /blog/
+layout: post
+title: Keycloak Core Concepts
+permalink: /articles/keycloak/1
 ---
 
 ## 🔐 Getting to Know Keycloak, OAuth 2.0 & OpenID Connect
