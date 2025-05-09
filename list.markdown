@@ -10,4 +10,4 @@ permalink: /blog/
 
 ## Design patterns
 
-[The Memento pattern](/bp-portofolio/articles/pattern/memento)
+[The Memento pattern](/bp-portofolio/articles/dp/memento)
