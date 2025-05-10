@@ -11,3 +11,5 @@ permalink: /blog/
 ## Design patterns
 
 [The Memento pattern](/bp-portofolio/articles/dp/memento)
+
+[The Factory pattern](/bp-portofolio/articles/dp/factory)
