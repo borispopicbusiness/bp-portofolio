@@ -12,4 +12,4 @@ permalink: /blog/
 
 [The Memento pattern](/bp-portofolio/articles/dp/memento)
 
-[The Factory pattern](/bp-portofolio/articles/dp/factory)
+[The Factory method pattern](/bp-portofolio/articles/dp/factory)
