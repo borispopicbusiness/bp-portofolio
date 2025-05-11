@@ -31,6 +31,8 @@ There are three main variations of the Factory pattern:
 2. **Factory Method**: Defines an interface for creating objects, but lets subclasses decide which classes to instantiate
 3. **Abstract Factory**: Provides an interface for creating families of related or dependent objects
 
+![class diagram]({{ site.baseurl }}/assets/FactoryMethodDesignPattern.jpg)
+
 ---
 
 ## 🛠️ Implementation Guide
