@@ -17,3 +17,5 @@ permalink: /blog/
 [The Factory method pattern](/bp-portofolio/articles/dp/factory)
 
 [The Observer Pattern](/bp-portofolio/articles/dp/observer)
+
+[The Abstract factory pattern](/bp-portofolio/articles/dp/abstract-factory)
