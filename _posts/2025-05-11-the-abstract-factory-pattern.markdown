@@ -63,6 +63,8 @@ Coming soon...
 
 ### Example
 
+Here you can find an [example](https://github.com/borispopicbusiness/design-pattern)
+
 Coming soon...
 
 ---
