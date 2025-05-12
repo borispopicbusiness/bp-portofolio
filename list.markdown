@@ -13,3 +13,5 @@ permalink: /blog/
 [The Memento pattern](/bp-portofolio/articles/dp/memento)
 
 [The Factory method pattern](/bp-portofolio/articles/dp/factory)
+
+[The Observer Pattern](/bp-portofolio/articles/dp/observer)
