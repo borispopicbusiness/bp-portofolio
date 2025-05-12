@@ -8,6 +8,8 @@ permalink: /blog/
 
 [Keycloak Core Concepts](/bp-portofolio/articles/keycloak/1)
 
+[Kafka: Introduction](/bp-portofolio/articles/kafka/introduction)
+
 ## Design patterns
 
 [The Memento pattern](/bp-portofolio/articles/dp/memento)
