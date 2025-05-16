@@ -150,7 +150,7 @@ Before you start make sure to prepare the following configuration files:
     ./kafka2.properties
     ./kafka3.properties
 
-Below is the content of **kafka1.properties**. You can refer [here](https://github.com/borispopicbusiness/portfolio-advanced-examples/kafka-intro/docker) to see what kafka2.properties and kafka3.properties should look like.
+Below is the content of **kafka1.properties**. You can refer [here](https://github.com/borispopicbusiness/portfolio-advanced-examples/tree/main/kafka-intro/docker/configs) to see what kafka2.properties and kafka3.properties should look like.
 
 Once the files are in place, you can start the cluster with:
 
