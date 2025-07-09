@@ -21,3 +21,5 @@ permalink: /blog/
 [The Observer Pattern](/bp-portofolio/articles/dp/observer)
 
 [The Abstract factory pattern](/bp-portofolio/articles/dp/abstract-factory)
+
+[The Decorator Pattern](/bp-portofolio/articles/dp/decorator)
