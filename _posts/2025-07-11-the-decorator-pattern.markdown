@@ -19,6 +19,7 @@ The pattern consists of these key components:
 - **Decorator**: Maintains a reference to a Component object and defines an interface that conforms to Component's interface
 - **ConcreteDecorator**: Adds responsibilities to the component
 
+<!--This is the broken link-->
 ![Decorator Pattern Structure](/assets/images/decorator-pattern.png)
 
 ## 🛠️ Implementation
