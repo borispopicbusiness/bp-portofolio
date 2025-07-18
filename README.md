@@ -1,4 +1,5 @@
-# bp-portfolio
-I use Jekyll for the portfolio
+# Instructions
+
+To locally run the portfolio, use the following bundle command:
 
     bundle exec jekyll serve
