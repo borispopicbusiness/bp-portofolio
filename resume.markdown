@@ -4,11 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 <!--[Download PDF](../assets/Boris_Popic_CV.pdf)<br/>-->
-I’m a Medior Java Back-End Engineer with 4+ years of experience building scalable microservice-based applications. I specialize in Java, Spring Boot, Kafka, Docker, and both relational and non-relational databases. I enjoy working in cross-functional international teams, collaborating closely with DevOps, QA, and front-end engineers to deliver clean, maintainable, and performant solutions.
+I’m a Medior Java Back-End Engineer with experience in building scalable microservice-based applications. I specialize in Java, Spring Boot, Kafka, Docker, and both relational and non-relational databases. I enjoy working in cross-functional international teams, collaborating closely with DevOps, QA, and front-end engineers to deliver clean, maintainable, and performant solutions.
 
-* **Position**: Java Backend Developer  
+* **Position**: Java Backend Software engineer 
 * **Skills**: Java, Spring Boot, Docker, Kubernetes, Git, Jenkins
-* **Experience**: 4+ years
 
 ### 🧰 Tech Stack
 
@@ -18,8 +17,11 @@ I’m a Medior Java Back-End Engineer with 4+ years of experience building scala
 - Node.js
 
 #### Frameworks
-- Spring
+- Spring Boot
+- Spring Framework
 - Django
+- Angular
+- Vue.js
 
 #### ORM / Data Access
 - Hibernate
@@ -34,6 +36,8 @@ I’m a Medior Java Back-End Engineer with 4+ years of experience building scala
 - AWS
 - Docker
 - Kubernetes
+- Helm
+- GitLab CI/CD
 - Jenkins
 - Nginx
 - Linux
