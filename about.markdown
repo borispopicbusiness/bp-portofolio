@@ -10,8 +10,8 @@ And I am a Java backend engineer. This is my personal site powered by Jekyll, wh
 
 I specialize in **Java**, **Spring**, **SQL**, and **containerization**, with a focus on building **scalable, high-performance microservices**.
 
-🚀 Check out my main project – a robust time tracker app:  
-[GitHub Repository](https://github.com/borispopicbusiness/timetracker)
+<!--🚀 Check out my main project – a robust time tracker app:  
+[GitHub Repository](https://github.com/borispopicbusiness/timetracker) -->
 
 💼 Connect with me on LinkedIn:  
 [LinkedIn Profile](https://www.linkedin.com/in/boris-popic-41670443)
